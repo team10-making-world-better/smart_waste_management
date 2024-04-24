@@ -9,6 +9,7 @@ detecting moisture content and providing real-time status updates.
 ----->> The moisture sensor enhances our system's capabilities by detecting the presence of liquid waste, facilitating more informed waste management decisions. 
 ----->> Finally, the I2C LCD display provides a user-friendly interface for local monitoring, allowing users to easily access important information about waste levels and system status. 
 
+The libraries used in this project are uploaded in zip format.
 Together, these components form a robust and efficient waste management solution tailored to meet the needs of modern urban environments.
 
 Sites that we used for REFERENCES are:-
